@@ -1,0 +1,28 @@
+Hello Everyone
+  This folder contains the source files 
+  
+  **************************************************************************************************************************************
+                              author: Rajendra Prajapat
+                              Aim : To create a GUI applcation for windows For Data management system for a population
+                              Files In this Folder:
+
+                                      Debug Folder
+
+                                      login.cpp
+                                      IO.h
+                                      login.h
+                                      login.resx
+                                      My.h
+                                      MY.resx
+                                      oper.h
+                                      people.h
+                                      REGIS.h
+                                      REGIS.resx
+                                      view.h
+                                      view.resx
+
+                            tools :  Visual Studio 2017 community version
+                            Technologies: object oriented programming with c++  
+
+  
+  **************************************************************************************************************************************
